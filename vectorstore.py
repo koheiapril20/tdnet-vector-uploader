@@ -2,7 +2,6 @@ from dotenv import load_dotenv
 from openai import OpenAI
 import time
 from typing_extensions import override
-from openai import AssistantEventHandler
 import os
 
 load_dotenv(override=True)
