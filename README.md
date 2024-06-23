@@ -18,7 +18,7 @@ This Python script scrapes fiscal reports of Japanese listed companies from the 
 
     ```bash
     git clone https://github.com/koheiapril20/tdnet-vector-uploader.git
-    cd tdnet-scraper
+    cd tdnet-vector-uploader
     ```
 
 2. **Create and activate a virtual environment**
